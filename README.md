@@ -9,7 +9,7 @@ Committed to staying updated with the latest industry trends and technologies, c
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshtiwari05&label=Profile%20views&color=0e75b6&style=flat" alt="AyushPandey7018" /> </p>
 
-<p align="left"> <a href="https://x.com/AyushPandey7018" target="blank"><img src="https://img.shields.io/twitter/follow/ritesh_tiwari__?logo=twitter&style=for-the-badge" alt="AyushPandey7018" /></a> </p>
+<p align="left"> <a href="https://x.com/AyushPandey7018" target="blank"><img src="https://img.shields.io/twitter/follow/AyushPandey7018?logo=twitter&style=for-the-badge" alt="AyushPandey7018" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack Development** and *Java Programming Language*
 
