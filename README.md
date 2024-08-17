@@ -1,29 +1,36 @@
-<h1 align="center">Hi 👋, I'm Ritesh Tiwari</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
+<h3 align="center">A passionate MERN Stack Developer and a Software Enginner from India</h3>
+<h2>Targeting Full stack Developer roles with an organization of high repute with a scope of improving knowledge and further career growth.<br>
+MERN stack (MongoDB, Express.js, React, Node.js) with a strong background in building scalable web applications. <br>
+Demonstrated ability to manage and deliver projects efficiently, from initial planning and design to final deployment and maintenance.<br>
+Committed to staying updated with the latest industry trends and technologies, continuously enhancing skills to provide innovative solutions.<br>
+</h2>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshtiwari05&label=Profile%20views&color=0e75b6&style=flat" alt="riteshtiwari05" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshtiwari05&label=Profile%20views&color=0e75b6&style=flat" alt="AyushPandey7018" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ritesh_tiwari__" target="blank"><img src="https://img.shields.io/twitter/follow/ritesh_tiwari__?logo=twitter&style=for-the-badge" alt="ritesh_tiwari__" /></a> </p>
+<p align="left"> <a href="https://x.com/AyushPandey7018" target="blank"><img src="https://img.shields.io/twitter/follow/ritesh_tiwari__?logo=twitter&style=for-the-badge" alt="AyushPandey7018" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **MERN Stack Development** and *Java Programming Language*
 
-- 👨‍💻 All of my projects are available at [https://riteshtiwari05.github.io/Portfolio/](https://riteshtiwari05.github.io/Portfolio/)
 
-- 💬 Ask me about **Frontend & Backend**
+- 💬 Ask me about **Frontend , Backend , Database**
 
-- 📫 How to reach me **riteshtiwari7376@gmail.com**
+- 📫 How to reach me **ayushpandey98070@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XToI58UF7luarDUtabDzu8jKZb0-xndJ/view](https://drive.google.com/file/d/1XToI58UF7luarDUtabDzu8jKZb0-xndJ/view)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ritesh_tiwari__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritesh_tiwari__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/riteshtiwari05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riteshtiwari05/" height="30" width="40" /></a>
-<a href="https://instagram.com/__ritesh_pandit__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ritesh_pandit__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/riteshtiwari7376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="riteshtiwari7376" height="30" width="40" /></a>
+<a href="https://x.com/AyushPandey7018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AyushPandey7018" height="30" width="40" /></a>
+  
+<a href="https://www.linkedin.com/in/ayush7018/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush7018" height="30" width="40" /></a>
+  
+<a href="https://www.instagram.com/__ayush.pandey_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ayush.pandey_" height="30" width="40" /></a>
+  
+<a href="https://www.hackerrank.com/profile/ayushpandey98070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushpandey98070" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
